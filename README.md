@@ -1,5 +1,4 @@
-# SC-CL-Project
-owner of the sccl
+# OWNER OF THE SCCL
 
 https://github.com/NativeFunction/
 
